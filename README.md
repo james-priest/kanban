@@ -1,5 +1,7 @@
 # Kanban Project Manager
 
+A single-board Kanban web app built with Next.js. See [frontend/README.md](frontend/README.md) for setup and run instructions.
+
 ## Instructions
 
 This is a skeleton project to be the basis for your Kanban project for Week 1 of the Complete AI Coder Course. See the course resources for more.
